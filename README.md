@@ -26,10 +26,7 @@ This project was built as part of a hackathon focused on sustainable and smart e
 
 ---
 
-## 📸 Screenshots
 
-> Add screenshots of your dashboard here  
-> Example: `/screenshots/dashboard-view.png`
 
 ---
 
